@@ -1,2 +1,5 @@
 # hello-world
-This repository is for practising the GitHub Flow
+
+Hi,
+I am Arun Mathew
+I am a 2nd sem DAV student in Yeshiva University
